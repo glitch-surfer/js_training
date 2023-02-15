@@ -68,5 +68,3 @@ for (i = 0; i< 31; ++i) {
     dateArr.push(i+1)
     console.log(`${dateArr[i]} января, ${dayArr [(startDay +i)%7]}`)
 }
-
-
